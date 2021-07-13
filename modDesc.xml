@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="53">
+	<author>Blacky_BPG</author>
+	<version>1.9.0.0</version>
+	<title>
+		<en>Fuel usage Addon</en>
+		<de><![CDATA[Treibstoff-Verbrauchs-Addon]]></de>
+	</title>
+	<description>
+		<en><![CDATA[Adjusted consumption values as they are also displayed with the aid of TSX_EnhancedVehicle Mod.]]></en>
+		<de><![CDATA[Angepasste Verbauchswerte so wie sie auch mithilfe von TSX_EnhancedVehicle Mod angezeigt wird.]]></de>
+	</description>
+	<iconFilename>bpglogo.png</iconFilename>
+	<multiplayer supported="true"/>
+	<extraSourceFiles>
+		<sourceFile filename="fuelUsageRegister.lua" />
+	</extraSourceFiles>
+</modDesc>
